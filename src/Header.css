@@ -1,0 +1,15 @@
+.workflow_header {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    border-bottom: 2px solid darkred;
+    padding-bottom: 10px;
+}
+
+.header_button {
+    background: lightgoldenrodyellow;
+    height: fit-content;
+    box-shadow: 2px 2px 3px 1px lightslategrey;
+    width: fit-content;
+}

@@ -1,0 +1,16 @@
+.workflow_block{
+    border-radius: 10px;
+    border: 5px solid lightgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+}
+
+.workflow_block_header {
+    padding-bottom: 10px;
+    border-bottom: 2px solid darkred;
+    width: 100%;
+    text-align: center;
+}

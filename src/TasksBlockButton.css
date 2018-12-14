@@ -1,0 +1,6 @@
+.workflow_button {
+    background: lightgoldenrodyellow;
+    height: fit-content;
+    box-shadow: 2px 2px 3px 1px lightslategrey;
+    width: 60%;
+}

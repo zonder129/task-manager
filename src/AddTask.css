@@ -1,0 +1,14 @@
+.content_wrapper {
+  padding-top: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.header_button {
+  background: lightgoldenrodyellow;
+  height: fit-content;
+  box-shadow: 2px 2px 3px 1px lightslategrey;
+  width: fit-content;
+}
